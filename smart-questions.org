@@ -1,0 +1,12 @@
+# -*-mode:org;coding:utf-8-*-
+# Created:  Fang Lungang 01/06/2016
+# Modified: Fang Lungang 01/06/2016 13:06>
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="../cssjs/lgfang.css" />
+#+INFOJS_OPT: toc:t tdepth:2 ltoc:nil view:showall path:../cssjs/org-info.js up:../index.html home:../../index.html
+#+OPTIONS: num:t
+
+#+TITLE: title
+
+* header1
+
+  testt
